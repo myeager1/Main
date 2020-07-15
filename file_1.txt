@@ -1,3 +1,4 @@
+A new line added
 hello
 time is relative
 I'm sleepy
